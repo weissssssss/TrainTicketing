@@ -1,0 +1,15 @@
+Ticket ID: TICKET7724
+Passenger: weiss
+Train: Express B (Seat 1)
+Fare: Ksh2000
+
+Ticket ID: TICKET5403
+Passenger: curtis
+Train: Express B (Seat 2)
+Fare: Ksh2000
+
+Ticket ID: TICKET9788
+Passenger: irwin
+Train: Express B (Seat 3)
+Fare: Ksh2000
+
